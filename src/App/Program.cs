@@ -1,4 +1,3 @@
-﻿using Domain
-
-
-var person = new Person();
+﻿using Domain;
+var you = new Person();
+you.SayHello();
